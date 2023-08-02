@@ -1,5 +1,5 @@
 {
-  "evm-network-id": 100,
+  "network-id": 100,
   "price-multiplier": 1.5,
   "issue-creator-multiplier": 2000,
   "time-labels": [
